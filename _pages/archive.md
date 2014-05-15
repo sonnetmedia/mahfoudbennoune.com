@@ -19,7 +19,7 @@ published: true
 
 - Belaïd Abdesselam, Mahfoud Bennoune, & Ali El Kenz, Le hasard et l'histoire: entretiens avec Belaid Abdesselam (ENAG, 1990). 
 
-- Mahfoud Bennoune, The Making of Contemporary Algeria (1830-1987): colonial upheavals and post-independence development (Cambridge, 1988) 
+- Mahfoud Bennoune, The Making of Contemporary Algeria (1830-1987): colonial upheavals and post-independence development (Cambridge, 1988) [(purchase from Amazon.com)](http://www.amazon.com/Contemporary-Algeria-1830-1987-Cambridge-Library/dp/0521524326)
 
 - Mahfoud Bennoune, El Akbia: un siècle d'histoire algérienne 1857-1975 (Office des publications universitaires, 1986)
 
