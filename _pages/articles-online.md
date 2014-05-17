@@ -24,3 +24,8 @@ permalink: /articles-online/
 
 
 ##### [*Le Matin* "Mahfoud Bennoune, chez les d'El Akbia"](/assets/files/le-matin.pdf) (PDF)
+
+
+---
+
+##### [*The Maghribin Migrant Workers in France*](/assets/files/The-Maghribin-migrant-workers-in-France.pdf) (PDF)
