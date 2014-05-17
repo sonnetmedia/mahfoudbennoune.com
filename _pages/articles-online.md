@@ -14,3 +14,13 @@ permalink: /articles-online/
 ---
 
 ##### [*De l’intellectuel maquisard à l’anthropologue engagé*](http://www.elwatan.com/contributions/de-l-intellectuel-maquisard-a-l-anthropologue-engage-17-05-2014-257452_120.php)
+
+
+---
+
+##### [**Download _Esquisse d'une anthropologie de l'Algerie politique_**](/assets/files/Esquisse-d-une-anthropologie-de-l-algerie-politique.pdf) Book (PDF)
+
+---
+
+
+##### [*Mahfoud Bennoune, chez les d'El Akbia*](/assets/files/le-matin.pdf) (PDF)
