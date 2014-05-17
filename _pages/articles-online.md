@@ -33,3 +33,8 @@ permalink: /articles-online/
 ---
 
 ##### [*What-Does it Mean to be a Third World Anthropologist*](/assets/files/What-does-it-mean-to-be-a-third-world anthropologist.pdf) (PDF)
+
+
+---
+
+##### ["Mahfoud Bennoune (1936-2004) : un témoignage" par Hugh Roberts](/assets/files/Hugh-Roberts.pdf) (PDF)
