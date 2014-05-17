@@ -11,5 +11,8 @@
  name: "Articles Online"
  slug: articles-online
 -
+ name: Photos
+ slug: slideshow
+-
  name: Remembrances
  slug: remembrances
