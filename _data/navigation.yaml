@@ -8,8 +8,8 @@
  name: Selected Works
  slug: selected-works
 -
- name: Remembrances
- slug: remembrances
--
  name: "Articles Online"
  slug: articles-online
+-
+ name: Remembrances
+ slug: remembrances
