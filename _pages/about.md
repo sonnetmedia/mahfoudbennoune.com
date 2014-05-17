@@ -6,6 +6,9 @@ class: dev
 published: true
 sharing: false
 ---
+[**version française**](/about-fr/)
+
+
 This website pays tribute to the life and work of Mahfoud Bennoune, PhD.  He was an Algerian anthropologist, professor, scholar, activist and humanist.  
 
 A veteran of Algeria’s war of national liberation, he remained involved in Algerian struggles for substantive democracy, economic justice, development, women’s rights - and human rights generally - until his death from the illness amyloidosis on May 17, 2004.  From a peasant background, he went on to study and lecture at some of the world’s leading universities, became a beloved professor at the University of Algiers, and published prolifically in three languages, including inside Algeria throughout the “dark decade” of the 1990s. 
