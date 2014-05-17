@@ -8,6 +8,8 @@ sharing: false
 ---
 [**version française**](/about-fr/)
 
+![](/assets/img/IMG_1353.jpg)
+
 
 This website pays tribute to the life and work of Mahfoud Bennoune, PhD.  He was an Algerian anthropologist, professor, scholar, activist and humanist.  
 
@@ -18,7 +20,3 @@ A veteran of Algeria’s war of national liberation, he remained involved in Alg
 
 
 Professor Bennoune, You – and the ideas and ideals you valued, developed and shared – will never be forgotten.
-
----
-
-"To explain what was happening in Algeria in the “dark decade” of the 90s, Mahfoud Bennoune wrote this three-part series: [“How Fundamentalism Produced a Terrorism Without Precedent,”](/article/how-fundamentalism-produced-a-terrorism-without-precedent/) which remains a useful tool for comprehending the seemingly incomprehensible actions of jihadist movements (like Nigeria's Boko Haram) and formulating strategy for combating them. It was first published in the leading Algerian newspaper El Watan in 1994.  At the time the author had been forced from his home by fundamentalist death threats and El Watan’s publisher Omar Belhouchet had the year before survived a jihadist attempt on his life.  Yet, both were willing to take further risks to publish this study which tries to interpret the jihadist onslaught their country was facing."
