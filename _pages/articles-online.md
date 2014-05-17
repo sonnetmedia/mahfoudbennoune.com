@@ -29,3 +29,7 @@ permalink: /articles-online/
 ---
 
 ##### [*The Maghribin Migrant Workers in France*](/assets/files/The-Maghribin-migrant-workers-in-France.pdf) (PDF)
+
+---
+
+##### [*What-Does it Mean to be a Third World Anthropologist*](/assets/files/What-does-it-mean-to-be-a-third-world anthropologist.pdf) (PDF)
