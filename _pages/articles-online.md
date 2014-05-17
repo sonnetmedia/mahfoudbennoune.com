@@ -20,7 +20,7 @@ permalink: /articles-online/
 
 ---
 
-##### [**Download _Esquisse d'une anthropologie de l'Algerie politique_**](/assets/files/Esquisse-d-une-anthropologie-de-l-algerie-politique.pdf) Book (PDF)
+##### [**_Esquisse d'une anthropologie de l'Algerie politique_**](/assets/files/Esquisse-d-une-anthropologie-de-l-algerie-politique.pdf) Book (PDF)
 
 ---
 
