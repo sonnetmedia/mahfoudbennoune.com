@@ -23,4 +23,4 @@ permalink: /articles-online/
 ---
 
 
-##### [*Mahfoud Bennoune, chez les d'El Akbia*](/assets/files/le-matin.pdf) (PDF)
+##### [*Le Matin* "Mahfoud Bennoune, chez les d'El Akbia"](/assets/files/le-matin.pdf) (PDF)
