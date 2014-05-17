@@ -20,3 +20,6 @@ A veteran of Algeria’s war of national liberation, he remained involved in Alg
 
 
 Professor Bennoune, You – and the ideas and ideals you valued, developed and shared – will never be forgotten.
+
+
+![](/assets/img/IMG_1362.jpg)
