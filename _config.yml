@@ -2,8 +2,6 @@ url: http://www.mahfoudbennoune.com
 sitename: 'Mahfoud Bennoune'
 description: 'Tribute to the life and work of Mahfoud Bennoune, PhD, Algerian anthropologist, professor, scholar, activist and humanist.'
 # do not include  https://github.com/...
-repo: 'budparr/jekyll-starter'
-branch: master
 default_author: "Bud Parr"
 
 #Jekyll Options
