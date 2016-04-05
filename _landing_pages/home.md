@@ -1,5 +1,6 @@
 ---
 layout: alt
+description: "Home Page."
 permalink: /
 sidebar_include: "snippets/article-latest.html"
 sharing: false

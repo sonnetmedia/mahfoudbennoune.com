@@ -23,7 +23,7 @@ layout: compress
             <!-- TODO: make correct URL for rss -->
     <link rel="alternate" type="application/rss+xml" href="/rss" title="RSS Feed">
 
-    <title>{% if page.title %}{{page.title}} - {% endif %} {{site.sitename}}</title>
+    
     {% if page.url %}
       <link rel="canonical" href="{{site.url}}{{ page.url }}" />
     {% endif %}
@@ -43,7 +43,12 @@ layout: compress
 
 
 
-    {% include global/meta-data.html %}
+{% include global/seo.html %}
+    {% if jekyll.environment == "production" %}
+      {% include global/analytics.html %}
+
+    {% endif %}
+
 
 
     <!--[if lt IE 9]>
@@ -62,10 +67,6 @@ layout: compress
     <!--[if lte IE 7]>
       <link rel="stylesheet" media="all" href="http://universal-ie6-css.googlecode.com/files/ie6.0.3.css">
     <![endif]-->
-
-  {% if site.production == true %}
-    {% include global/analytics.html %}
-  {% endif %}
 
 </head>
 

@@ -11,6 +11,9 @@
  name: "Articles Online"
  slug: articles-online
 -
+ name: "El Watan Articles (Fr)"
+ slug: el-watan-articles
+-
  name: Photos
  slug: slideshow
 -

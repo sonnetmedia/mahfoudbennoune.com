@@ -1,7 +1,8 @@
-url: http://www.mahfoudbennoune.com
-sitename: 'Mahfoud Bennoune'
+url: https://www.mahfoudbennoune.com
+title: 'Mahfoud Bennoune'
 description: 'Tribute to the life and work of Mahfoud Bennoune, PhD, Algerian anthropologist, professor, scholar, activist and humanist.'
 # do not include  https://github.com/...
+author: Karima Bennoune
 default_author: "Bud Parr"
 
 #Jekyll Options
@@ -44,3 +45,64 @@ twitter_id: budparr
 include_nav-top: false
 include_nav-side-left: true
 include_nav-side-right: false
+
+
+gems:
+  - jekyll-seo-tag
+
+
+# CONTENT
+collections:
+  categories:
+    output: true
+    permalink: '/:path/'
+  landing_pages:
+    output: true
+    permalink: '/:path/'
+# DEFAULTS
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      layout: page
+      permalink: /:basename/
+  - scope:
+      path: ''
+      type: categories
+    values:
+      layout: page-category
+  - scope:
+      path: ''
+      type: landing_pages
+    values:
+      layout: page
+# ASSETS
+assets:
+  compress:
+    css: true
+    js: true
+  cache: .asset-cache
+  cdn: /
+  skip_baseurl_with_cdn: false
+  skip_prefix_with_cdn: false
+  assets:
+    - "*.png"
+    - "*.scss"
+    - "*.svg"
+    - "*.js"
+  digest: default
+  sources:
+    - _assets/bower/html5shiv/dist/html5shiv.min.js
+    - _assets/_sass
+    - _assets/fonts
+    - _assets/img
+    - _assets/js
+  features:
+    automatic_img_size: true
+    automatic_img_alt : true
+
+compress_html:
+  ignore:
+    envs: [development]
+  profile: false

@@ -1,10 +1,20 @@
 source 'https://rubygems.org'
 gem 'github-pages'
+# gem 'jekyll'
+
+group :jekyll_plugins do
+  gem "html-proofer"
+  gem 'jekyll-seo-tag'
+  # gem "jekyll-lunr-js-search"
+  # gem 'jekyll-assets'
+  # gem 'autoprefixer-rails'
+  #gem 'jekyll-imgix'
+  # gem 'jekyll-sitemap'
+  #gem 'jekyll-archives'
+end
+# gem 'jekyll-lunr-js-search'
+# gem 'jekyll-paginate'
+# gem 'jekyll-picture-tag'
+# gem 'jekyll_pages_api_search'
 gem 'sass', "3.3.4"
 gem 'sass-globbing', ">= 1.1.0"
-#gem 'compass', "0.12.2"
-#gem 'breakpoint',  "2.0.5"
-#gem 'singularitygs', "< 2.0.0"
-# gem 'bourbon'
-# gem 'neat'
-# gem 'bitters'

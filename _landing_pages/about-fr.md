@@ -1,13 +1,11 @@
 ---
-layout: page
 title: Mahfoud Bennoune (1936-2004)
-permalink: /about-fr/
-class: dev
 published: true
-sharing: false
+description: 'About Mahfoud Bennoune, in French'
+class: dev
 ---
 ![](/assets/img/MBpic10.jpg)
-Ce site Web rend hommage à la vie et à l'œuvre du Dr. Mahfoud Bennoune. Il était un anthropologue algérien, professeur, chercheur, militant et humaniste. Vétéran de la guerre de libération nationale algérienne, il est resté engagé dans le combat algérien pour une vraie démocratie, la justice économique, le développement, les droits de la femme et les droits de l'hommes en général jusqu'à sa mort le 17 Mai 2004 suite à une longue maladie. Issu d'un milieu paysan, il est parti étudier et enseigner dans quelques unes des meilleures universités du monde. Il est devenu un professeur bien aimé et respecté à l'Université d'Alger et ses publications furent abondantes dans les trois langues - anglais, français, arabe - notamment en Algérie lors de la décennie noire. 
+Ce site Web rend hommage à la vie et à l'œuvre du Dr. Mahfoud Bennoune. Il était un anthropologue algérien, professeur, chercheur, militant et humaniste. Vétéran de la guerre de libération nationale algérienne, il est resté engagé dans le combat algérien pour une vraie démocratie, la justice économique, le développement, les droits de la femme et les droits de l'hommes en général jusqu'à sa mort le 17 Mai 2004 suite à une longue maladie. Issu d'un milieu paysan, il est parti étudier et enseigner dans quelques unes des meilleures universités du monde. Il est devenu un professeur bien aimé et respecté à l'Université d'Alger et ses publications furent abondantes dans les trois langues - anglais, français, arabe - notamment en Algérie lors de la décennie noire.
 
 A l'occasion du dixième anniversaire de son décès (17 mai 2014), nous entamons ce projet commémoratif afin de commémorer sa vie et son travail et nous continuerons à collecter ses œuvres en anglais, français et arabe jusqu'au jour qui aurait été son 80ème anniversaire, à savoir le 9 Avril 2016. Il est en effet injuste que dans cette période contemporaine, la remarquable production intellectuelle de l'hémisphère Sud ne puisse pas souvent bénéficier du lectorat mondial qu'elle mérite alors qu'elle est invariablement produite en dépit des défis liés à la logistique et aux ressources et des fois, comme cela a été le cas pour Dr. Bennoune, en dépit des risques pour la sécurité des personnes elles-mêmes.
 
