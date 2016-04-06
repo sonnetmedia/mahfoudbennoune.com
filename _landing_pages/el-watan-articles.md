@@ -2,6 +2,9 @@
 title: "Articles in French for the Algerian newspaper El Watan"
 ---
 
+**With kind permission of El Watan ([www.elwatan.com](http://www.elwatan.com))**
+
+---
 
 ##### [Alice au pays des merveilles (4e partie et fin)](/assets/files/el-watan/alice-au-pays-des-merveilles-4.doc.pdf)
 
