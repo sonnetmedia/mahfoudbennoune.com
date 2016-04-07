@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lettre ouverte à M. Anouar Haddam"
+title: "Open Letter to Mr. Anouar Haddam"
 date: 2016-04-07T00:00:00.000Z
 ---
 
