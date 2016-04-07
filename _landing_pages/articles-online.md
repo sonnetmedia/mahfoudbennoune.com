@@ -4,7 +4,9 @@ layout: page
 category:
 permalink: /articles-online/
 ---
-
+{% for post in site.posts %}
+{{ post.url }}
+{% endfor %}
 "To explain what was happening in Algeria in the “dark decade” of the 90s, Mahfoud Bennoune wrote this three-part series: [“How Fundamentalism Produced a Terrorism Without Precedent,”](/article/how-fundamentalism-produced-a-terrorism-without-precedent/) which remains a useful tool for comprehending the seemingly incomprehensible actions of jihadist movements (like Nigeria's Boko Haram) and formulating strategy for combating them. It was first published in the leading Algerian newspaper El Watan in 1994.  At the time the author had been forced from his home by fundamentalist death threats and El Watan’s publisher Omar Belhouchet had the year before survived a jihadist attempt on his life.  Yet, both were willing to take further risks to publish this study which tries to interpret the jihadist onslaught their country was facing."
 
 ##### [*How Fundamentalism Produced a Terrorism Without Precedent*](/article/how-fundamentalism-produced-a-terrorism-without-precedent/)
