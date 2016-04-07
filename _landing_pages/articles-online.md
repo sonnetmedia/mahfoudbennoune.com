@@ -40,3 +40,12 @@ permalink: /articles-online/
 ---
 
 ##### ["Mahfoud Bennoune (1936-2004) : un témoignage" par Hugh Roberts](/assets/files/Hugh-Roberts.pdf) (PDF)
+
+
+---
+
+##### ["Lettre ouverte à monsieur Annouar Haddam - 1"](/assets/files/Haddam-Article_ 91695.pdf) (PDF)
+
+---
+
+##### ["Lettre ouverte à monsieur Annouar Haddam - 2"](/assets/files/Haddam-Article_ 91795.pdf) (PDF)
