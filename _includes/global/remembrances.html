@@ -1,0 +1,8 @@
+{% assign remembrances = site.data.remembrances %}
+
+{% for object in remembrances.disqus.post  %}
+<h4>{{ object.author.name }}</h4>
+  {{ object.message }}
+  <hr />
+{% endfor %}
+<hr />

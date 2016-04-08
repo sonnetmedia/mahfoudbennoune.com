@@ -1,0 +1,145 @@
+{
+  "disqus": {
+    "-xmlns": "http://disqus.com",
+    "-xmlns:dsq": "http://disqus.com/disqus-internals",
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "-xsi:schemaLocation": "http://disqus.com/api/schemas/1.0/disqus.xsd http://disqus.com/api/schemas/1.0/disqus-internals.xsd",
+    "category": {
+      "-dsq:id": "3056979",
+      "forum": "mahfoudbennoune",
+      "title": "General",
+      "isDefault": "true"
+    },
+    "thread": [
+      {
+        "-dsq:id": "2684556317",
+        "forum": "mahfoudbennoune",
+        "category": { "-dsq:id": "3056979" },
+        "link": "http://localhost:4040/remembrances/",
+        "title": "Remembrances - Mahfoud Bennoune",
+        "createdAt": "2014-05-14T13:12:54Z",
+        "author": {
+          "email": "budparr@sonnetmedia.net",
+          "name": "pubspring",
+          "isAnonymous": "false",
+          "username": "pubspring"
+        },
+        "ipAddress": "207.237.209.251",
+        "isClosed": "false",
+        "isDeleted": "false"
+      },
+      {
+        "-dsq:id": "2684597102",
+        "forum": "mahfoudbennoune",
+        "category": { "-dsq:id": "3056979" },
+        "link": "https://www.mahfoudbennoune.com/remembrances/",
+        "title": "Remembrances - Mahfoud Bennoune",
+        "createdAt": "2014-05-14T13:32:03Z",
+        "author": {
+          "email": "budparr@sonnetmedia.net",
+          "name": "pubspring",
+          "isAnonymous": "false",
+          "username": "pubspring"
+        },
+        "ipAddress": "207.237.209.251",
+        "isClosed": "false",
+        "isDeleted": "false"
+      },
+      {
+        "-dsq:id": "4720922916",
+        "id": "/remembrances/",
+        "forum": "mahfoudbennoune",
+        "category": { "-dsq:id": "3056979" },
+        "link": "https://www.mahfoudbennoune.com/remembrances-2/",
+        "title": "Remembrances - Mahfoud Bennoune",
+        "createdAt": "2016-04-05T04:19:36Z",
+        "author": {
+          "email": "budparr@sonnetmedia.net",
+          "name": "pubspring",
+          "isAnonymous": "false",
+          "username": "pubspring"
+        },
+        "ipAddress": "24.91.120.177",
+        "isClosed": "false",
+        "isDeleted": "false"
+      }
+    ],
+    "post": [
+      {
+        "-dsq:id": "1396414684",
+        "message": "<p>مساء الخير... علمت بالموقع بعد قرائتي للمقال الذي خصص للتعريف بالانثروبولوجي السي محفوظ بنون... لقد قرأت له قبل سنوات كتاب النساء الجزائريات ضحايا الابوية المستحدثة...  كان لهذا الكتاب ان فتح عيناي على الواقع القاسي للمرأة الجزائرية والعربية .... اقتنيت قبل ايام الطبعة الجديدة للكتاب المشترك مع علي الكنز والذي موضوعه مقابلات مع بلعيد عبد السلام</p><p>شكرا لكم على هذا الموقع</p><p>ورحم الله فقيد الجزائر</p>",
+        "createdAt": "2014-05-20T23:10:54Z",
+        "isDeleted": "false",
+        "isSpam": "false",
+        "author": {
+          "email": "zinou-k@hotmail.com",
+          "name": "Zineddine Kharchi",
+          "isAnonymous": "false",
+          "username": "zineddinekharchi"
+        },
+        "ipAddress": "197.205.201.220",
+        "thread": { "-dsq:id": "2684597102" }
+      },
+      {
+        "-dsq:id": "1417507734",
+        "message": "<p>The tenth anniversary of  Mahfoud's passing brings up sad memories of his<br>final years, how he struggled with the illness that brought his<br>vibrant life to a premature end.  I considered Mahfoud an older<br>brother, mentor, and companion.  He could be funny, serious, and<br>witty.  He fought his way into the citadel of the western<br>academia, admired its industry and scholarship, but drew a line at<br>the continuation of colonial and neo-colonial rule and exploitation<br>of what was known back then as the Third World.  Mahfoud had his<br>feet in the two worlds that were pivotal in his formation –<br>colonial and post-colonial Algeria.  He seemed to take refuge in<br>escaping the cauldron of that dialect when he came to the Anglo-Saxon<br>world, first the United Kingdom and eventually the United States.</p><p>Eventually he was equally at home in Algiers as well as in London or Detroit.<br> He empathized with the downtrodden in both worlds.  He<br>believed that the peoples of the South could rise up and take charge<br>of their lives through governments free of corruption, cronyism, and<br>cynicis.  He was adamant that fellow Arab academics take their<br>studies seriously, eschewing short cuts.  One of his favorite<br>words for those who did not measure up was \"buffoon.\"<br> Mahfoud was a serious intellectual who was proud to build on<br>the works of European and American scholarship so long as the works<br>were free of racism, sexism and cultural elitism, as well as free of<br>apologetics for political and economic imperialism of countries of<br>the post-colonial world.  He also drew inspiration and enlightenment<br>from the works of Arab philosophers and thinkers as well as leaders<br>of the anti-colonial struggles.  He had no use, however, for<br>demagogues who would enlist religion, especially bogus and invented<br>tradition, to turn personal prejudice and sanctified ignorance into<br>instruments of political rule.</p><p> Mahfoud was a militant, who fought his way out of colonial rule, and<br>continued fighting neo-colonial and imperialist domination.  As an<br>intellectual, he believed in ideas, and the power of ideas to change<br>the world.  He was not deterred in that struggle as he battled in his<br>final years the debilitating illness that eventually silenced his<br>voice.  The arc of his life illuminated an otherwise dark sky<br>spanning a critical juncture in modern times.</p>",
+        "createdAt": "2014-06-03T13:04:25Z",
+        "isDeleted": "false",
+        "isSpam": "false",
+        "author": {
+          "email": "nabrahamy@gmail.com",
+          "name": "Nabeel Abraham",
+          "isAnonymous": "false",
+          "username": "nabeelabraham"
+        },
+        "ipAddress": "68.61.83.39",
+        "thread": { "-dsq:id": "2684597102" }
+      },
+      {
+        "-dsq:id": "1489685284",
+        "message": "<p>Si Mahfoud est unique par son engagement politique et scientifique . Nouri d'une culture de l'amour de la justice et de la lutte pour la justice . Il a ete dans tous les combats au service de l'humanite et au service de son pays .. Al Jazayer pour laquelle il a tant donne. Ses travaux publies et non publies ont marque une generation de jeunes intellectuels et militants de base  et pour moi qui etait un disciple  , sur le domaine de l'enseignement superieur . Une etude comparative sur les divers types d'enseignement et son apport a l'enseignement superieurs. Ca fait 10 ans  qu on ne le voit pas mais on pense a lui et mon espoir est que l'hommage qui lui a ete fait en Mai 2005 se renouvelle . Les rares rencontres qu'on a eu a Alger  les annee 2000 sur presentation d'un ami commun reste un souvenir du militant du \"libre usage de la Raison\". Beslama Si Mahfoud .</p>",
+        "createdAt": "2014-07-17T12:19:04Z",
+        "isDeleted": "false",
+        "isSpam": "false",
+        "author": {
+          "email": "aekader@hotmail.com",
+          "name": "Abd-El-Qader Sahraoui",
+          "isAnonymous": "false",
+          "username": "abdelqadersahraoui"
+        },
+        "ipAddress": "212.26.15.171",
+        "thread": { "-dsq:id": "2684597102" }
+      },
+      {
+        "-dsq:id": "1817609597",
+        "message": "<p>\"I first met Dr. Mahfoud Bennoune at an Association of Arab-American University Graduates (AAUG) conference in Cleveland, Ohio in October 1974.</p><p>\"It was clear from the beginning that Dr. Bennoune was a fully engaged scholar — a representative of a generation of young, optimistic and idealistic Arab intellectuals who were committed to the justice of the causes for which they were fighting. Mafoud Bennoune was deeply embedded in anti-colonial and post-colonial struggles particularly in Algeria, but also elsewhere. Uniquely, Dr. Bennoune’s concerns were not single-issue as he was sensitive to and had an abhorrence of many of the ailments afflicting both Eastern and Western societies. Thus, anti-colonialism was coupled in the mind of this outstanding man with the still pressing ideals of human rights and human dignity, women’s rights, workers’ rights and the ending of exploitation and oppression. It is in this sense that Dr. Bennoune was an icon of his generation, whose message, intellectual output and humanitarian contributions still resonate today. He is missed not only by his family, but also by his students, readers, colleagues and friends, for whom he was a role model to emulate.\"</p><p>Baha Abu-Laban, C.M., Ph.D.</p><p>University of Alberta</p>",
+        "createdAt": "2015-01-26T14:24:19Z",
+        "isDeleted": "false",
+        "isSpam": "false",
+        "author": {
+          "email": "budparr@sonnetmedia.net",
+          "name": "Baha Abu-Laban",
+          "isAnonymous": "false",
+          "username": "pubspring"
+        },
+        "ipAddress": "65.78.11.3",
+        "thread": { "-dsq:id": "2684597102" }
+      },
+      {
+        "-dsq:id": "2437950148",
+        "message": "<p>Through this modest contribution, I wanted to pay tribute and honor to Dr. Bennoune who, for me and for a lot of people, was a true “intellectuel engagé”.  During his lifetime, Dr. Bennoune fought three great battles. The first was the battle of the liberation of Algeria, one<br>of the longest and fiercest anti-colonization wars in history (132 years), what Alistair Horne calls \"The Savage War For Peace\", which ended with Algeria’s independence and during which he was emprisoned for four long years. The second battle that he fought was<br>against illiteracy, ignorance, intolerance , injustice and for democracy and human dignity, not only for Algeria,  but also for the Third World in general. This battle was exemplified through his numerous and diversified publications and presentations as a great sociologist and anthropologist at both the national and international level, using three of the most important practiced languages in the world (Arabic, French, and English). This battle was also revealed through his interest in the causes related to what we used to call the « Third World » and his fight for justice, women’s rights, the poor, and people of races and faiths. His third battle was against a disabling disease. In spite of the personal suffering that he went through, he did not stop his work but instead was even more willing to work harder in spite of the death threats that he received from people who claim to defend Islam but who were in reality not Muslim at all.   Today, his daughter, Karima Bennoune, is not only following his path, but additionally has succeeded in becoming one of the most renowned Professors of International Law and the most ardent advocate of human rights in the world. Algeria is certainly proud to have people like her, with worldly expertise and a breadth of experience and Dr. Bennoune would have certainly been proud of her accomplishments. To conclude, I want to say that we wish Dr. Bennoune could be among us today to share the political and<br>intellectual fruits that he has contributed not only for his country, but for the world as a whole.</p><p>Dr. Arezki Ighemat, Retired Professor<br>of Economics.</p>",
+        "createdAt": "2016-01-03T21:17:35Z",
+        "isDeleted": "false",
+        "isSpam": "false",
+        "author": {
+          "email": "aighemat@yahoo.com",
+          "name": "Dr. Arezki Ighemat",
+          "isAnonymous": "false",
+          "username": "drarezkiighemat"
+        },
+        "ipAddress": "96.245.14.170",
+        "thread": { "-dsq:id": "2684597102" }
+      }
+    ]
+  }
+}
