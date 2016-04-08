@@ -120,4 +120,4 @@ _Translated by Karima Bennoune_
 
 [10](#body_ftn10) Translator’s Note: Chadli Bendjedid served as President of Algeria from 1979-11 January 1992 and was associated with the rise of the comprador class and the dismantling of the socialist economy.
 
-[11](#body_ftn11) Translator’s Note: in the Algerian context this term refers to networks of corruption that are alleged to include actors in and out of the state.</span
+[11](#body_ftn11) Translator’s Note: in the Algerian context this term refers to networks of corruption that are alleged to include actors in and out of the state.
