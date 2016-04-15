@@ -23,7 +23,7 @@ layout: compress
             <!-- TODO: make correct URL for rss -->
     <link rel="alternate" type="application/rss+xml" href="/rss" title="RSS Feed">
 
-    
+
     {% if page.url %}
       <link rel="canonical" href="{{site.url}}{{ page.url }}" />
     {% endif %}
@@ -43,8 +43,9 @@ layout: compress
 
 
 
-{% include global/seo.html %}
+
     {% if jekyll.environment == "production" %}
+    {% include global/seo.html %}
       {% include global/analytics.html %}
 
     {% endif %}
