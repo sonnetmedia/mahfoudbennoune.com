@@ -2,7 +2,7 @@
 title: "Open Democracy prints excerpt of the Letter to Anouar Haddam in honor of what would have been Mahfoud's 80th birthday"
 published: true
 date: 2016-04-09T00:00:00.000Z
-featured: true
+featured: false
 ---
 **Jihadist “crimes that surpass all understanding”: a letter from 1995 Algeria**
 
