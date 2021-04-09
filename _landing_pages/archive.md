@@ -92,11 +92,11 @@ published: true
 
 ### Works About Mahfoud Bennoune
 
-- Ecrivains Maghrébins, Mahfoud Bennoune (Nov. 1, 2001), http://ecrivainsmaghrebins.blogspot.com/2011/11/mahfoud-bennoune.html.
+- Ecrivains Maghrébins, Mahfoud Bennoune (Nov. 1, 2001), [http://ecrivainsmaghrebins.blogspot.com/2011/11/mahfoud-bennoune.html](http://ecrivainsmaghrebins.blogspot.com/2011/11/mahfoud-bennoune.html).
 
-- Meriem Ouyahia, Hommage a Mahfoud Bennoune: Ou le devoir de réflexion, LeSoirdAlgerie.com (2005), available at http://www.lesoirdalgerie.com/articles/2005/05/03/article.php?sid=22566&cid=2.
+- Meriem Ouyahia, Hommage a Mahfoud Bennoune: Ou le devoir de réflexion, LeSoirdAlgerie.com (2005), available at [http://www.lesoirdalgerie.com/articles/2005/05/03/article.php?sid=22566&cid=2](http://www.lesoirdalgerie.com/articles/2005/05/03/article.php?sid=22566&cid=2).
 
-- Hugh Roberts, Mahfoud Bennoune (1936-2004): un témoignage, 25-26 Insaniyat 299 (2004), available at http://www.crasc-dz.org/IMG/Insaniyat/25-26/Hommage%20a%20Mahfoud%20Bennoune.pdf.
+- Hugh Roberts, Mahfoud Bennoune (1936-2004): un témoignage, 25-26 Insaniyat 299 (2004), available at [http://www.crasc-dz.org/IMG/Insaniyat/25-26/Hommage%20a%20Mahfoud%20Bennoune.pdf](http://www.crasc-dz.org/IMG/Insaniyat/25-26/Hommage%20a%20Mahfoud%20Bennoune.pdf).
 
 - Joe Stork, "In Memoriam: Mahfoud Bennoune, Maxime Rodinson & Yusif Sayigh," 34:3 Middle East report 3 (2004).
 
@@ -104,4 +104,4 @@ published: true
 
 - Nouria Benghabrit Remaoun, Bennoune, Mahfoud.
 
-- Education, culture et développement en Algérie, Insaniyat 185 (2000), available at http://insaniyat.revues.org/7934.
+- Education, culture et développement en Algérie, Insaniyat 185 (2000), available at [http://insaniyat.revues.org/7934](http://insaniyat.revues.org/7934).
