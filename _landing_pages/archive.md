@@ -38,7 +38,7 @@ published: true
 
 - Mahfoud Bennoune, "La doctrine contre-révolutionnaire de la France et la paysannerie algérienne: les camps de regroupement (1954-1962)," Sud/Nord: Algéries (2001).
 
-- Mahfoud Bennoune, Pourquoi Mohammed Boudiaf a-t-il été assassiné? 25 Confluences Méditerranée 159 (Mar. 1998), available at http://www.revues-plurielles.org/_uploads/pdf/9_25_20.pdf.
+- Mahfoud Bennoune, Pourquoi Mohammed Boudiaf a-t-il été assassiné? 25 Confluences Méditerranée 159 (Mar. 1998), available at [http://www.revues-plurielles.org/_uploads/pdf/9_25_20.pdf](http://www.revues-plurielles.org/_uploads/pdf/9_25_20.pdf).
 
 - Mahfoud Bennoune, "[Islam]: intégrisme et terrorisme," Revue dpresse Maghreb Moyen Orient (1994)
 
@@ -62,7 +62,7 @@ published: true
 
 - Mahfoud Bennoune, "Mauretania: Formation of a Neo-Colonial Society," 54 Middle East Research & Information Project (MERIP) Reports (1977).
 
-- Mahfoud Bennoune, "Algerian peasants and national politics" 48 Middle East Research & Information Project (MERIP) Reports (1976), available at http://www.jstor.org/stable/3011103.
+- Mahfoud Bennoune, "Algerian peasants and national politics" 48 Middle East Research & Information Project (MERIP) Reports (1976), available at [http://www.jstor.org/stable/3011103](http://www.jstor.org/stable/3011103).
 
 - Mahfoud Bennoune, Impact of colonialism and migration on an Algerian peasant community: a study in socioeconomic change, Thesis at University of Michigan (1976).
 
@@ -86,7 +86,7 @@ published: true
 
 - Karima Bennoune, Betsy Reed ed., "Interview with Mahfoud Bennoune," Nothing Sacred: Women Respond to Religious Fundamentalism and Terror (2002).
 
-- "An Interview with Mahfoud Bennoune: Algeria's Façade of Democracy," 163 Middle East Report 9 (1990), available at http://www.jstor.org/stable/3012551.
+- "An Interview with Mahfoud Bennoune: Algeria's Façade of Democracy," 163 Middle East Report 9 (1990), available at [http://www.jstor.org/stable/3012551](http://www.jstor.org/stable/3012551).
 
 ---
 
